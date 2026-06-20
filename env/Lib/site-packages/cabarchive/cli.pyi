@@ -1,0 +1,3 @@
+from cabarchive import CabArchive as CabArchive, CabFile as CabFile, NotSupportedError as NotSupportedError
+
+def main(): ...
